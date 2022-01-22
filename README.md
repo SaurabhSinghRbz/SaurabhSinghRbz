@@ -12,7 +12,7 @@
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .py```, ```.html```
 - 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write coad on **[leetcode](https://leetcode.com/shivam-singh-au17/)** <br>
+- 🔥 I use to write coad on **[leetcode](https://leetcode.com/SaurabhSinghRbz/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -29,23 +29,23 @@
 
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:shivamsingh4458@gmail.com">
-    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
  <a href="https://medium.com/@shivamsingh4458">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/shivam-singh-au17/">
-    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  <a href="https://leetcode.com/SaurabhSinghRbz/">
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
 
-<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<img src ="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>
@@ -74,7 +74,7 @@
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{shivam-singh-au17}/count.svg" alt="shivam-singh-au17 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SaurabhSinghRbz}/count.svg" alt="SaurabhSinghRbz :: Visitor's Count" /></p>
 
 <hr>
 
@@ -86,26 +86,26 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-singh-au17&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
 </p>
  
 <p>
-<a href="https://github.com/shivam-singh-au17"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-singh-au17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam-singh-au17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/SaurabhSinghRbz"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhSinghRbz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/shivam-singh-au17"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-singh-au17&theme=dracula" />
+<a href="https://github.com/SaurabhSinghRbz"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=dracula" />
 </span></a> </p>
 
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam-singh-au17&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaurabhSinghRbz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
