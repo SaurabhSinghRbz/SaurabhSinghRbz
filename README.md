@@ -35,13 +35,13 @@
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
  <a href="https://medium.com/@shivamsingh4458">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/SaurabhSinghRbz/">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
 
