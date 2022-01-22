@@ -29,7 +29,7 @@
 
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:shivamsingh4458@gmail.com">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/main/Images/mail.png?raw=true" width="32px"  />
