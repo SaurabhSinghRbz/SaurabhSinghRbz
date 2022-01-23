@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/saurabh-singh-8a715b220/">
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/SaurabhSinghRbz/">
+  <a href="https://leetcode.com/SinghSaurabh1602/">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
