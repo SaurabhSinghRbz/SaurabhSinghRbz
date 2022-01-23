@@ -43,6 +43,9 @@
   <a href="https://leetcode.com/SinghSaurabh1602/">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
   </a>
+   <a href="https://www.hackerrank.com/singhsaurabh1621">
+    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/2304468d546c19cc87cd9988b3443494a33ef85c/Images/HackerRank.png" width="32px"  />
+  </a>
 </p>
 
 <img src ="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
