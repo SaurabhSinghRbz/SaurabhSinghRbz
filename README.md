@@ -28,7 +28,7 @@
 
 
 <p>
-   <a target="_blank" rel="noopener" href="https://twitter.com/Saurabh162000">
+   <a href="https://twitter.com/Saurabh162000" {:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}>
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/d771c0033d84cd92249b979a33f5ef2b0921a974/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:singhsaurabh162000@gmail.com">
