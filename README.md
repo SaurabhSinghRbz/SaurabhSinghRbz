@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .py```, ```.html```
+- 🤔 I use daily ```.js```,``` .css```, ```.html```
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/SaurabhSinghRbz/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
