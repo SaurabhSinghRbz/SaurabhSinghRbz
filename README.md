@@ -11,7 +11,7 @@
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
-- 🛠 I’m currently learning about **deep learning**🥰<br>
+- 🛠 I’m currently learning about **MERN**🥰<br>
 - 🔥 I use to write code on **[leetcode](https://leetcode.com/SaurabhSinghRbz/)** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
