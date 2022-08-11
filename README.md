@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saurabh Singh </h1>
 
-<h2><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h2> 
+<h2><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h2> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
