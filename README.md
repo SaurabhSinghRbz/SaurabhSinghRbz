@@ -34,8 +34,8 @@
   <a href="mailto:singhsaurabh1622000@gmail.com">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/mail.png?raw=true" width="32px"  />
   </a>
- <a href="">
-    <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/medium.svg" width="32px"  />
+ <a href="https://hashnode.com/@Saurabh1602">
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/saurabh-singh-rbz1602/">
     <img align="left" src="https://raw.githubusercontent.com/SaurabhSinghRbz/SaurabhSinghRbz/1049140a71903d67104b4395ec1e24837ea2cece/Images/linked-in-alt.svg" width="28px" />
