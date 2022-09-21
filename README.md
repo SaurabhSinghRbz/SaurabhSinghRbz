@@ -43,8 +43,8 @@
    <a href="https://hashnode.com/@Saurabh1602">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
   </a>
-   <a href="https://hashnode.com/@Saurabh1602">
-    <img align="left" src="https://img.icons8.com/fluency/2x/domain.png" width="35px"  />
+   <a href="https://singhsaurabh.vercel.app/">
+    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
   </a>
   
 </p>
