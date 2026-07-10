@@ -143,7 +143,6 @@ Security:
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=SaurabhSinghRbz&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaurabhSinghRbz?cardType=github"/>
 
 </div>
 
