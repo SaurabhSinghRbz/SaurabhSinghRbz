@@ -196,47 +196,27 @@ Product Development
 
 ---
 
-# $ featured-repositories
-
-<!-- Replace repository names with your actual repositories -->
-
-<div align="center">
-
-<a href="https://github.com/SaurabhSinghRbz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaurabhSinghRbz&repo=smooth-pay-api&theme=transparent" />
-</a>
-
-<a href="https://github.com/SaurabhSinghRbz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaurabhSinghRbz&repo=smooth-pay-portfolio&theme=transparent" />
-</a>
-
-</div>
-
----
-
-# $ contribution-map
-
-<div align="center">
-
-![Snake animation](https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 # $ contact
 
-<div align="center">
-
-<a href="https://iamsaurabh.in">Portfolio</a> • <a href="https://linkedin.com/in/saurabhsinghrbz">LinkedIn</a> • <a href="mailto:hello@iamsaurabh.in">Email</a>
-
-</div>
+<p align="center">
+  <a href="https://iamsaurabh.in">
+    🌐 Portfolio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/saurabhsinghrbz">
+    💼 LinkedIn
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:hello@iamsaurabh.in">
+    📧 Email
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### "Build systems that continue to perform long after expectations have changed."
+### "Great software is not just code. It is reliability, scalability, and thoughtful engineering."
 
 </div>
 
