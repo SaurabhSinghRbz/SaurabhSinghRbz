@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Saurabh%20Singh&fontSize=58&fontAlignY=40&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Distributed%20Systems&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Saurabh%20Singh&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Distributed%20Systems&descAlignY=60"/>
 
 <p align="center">
   <a href="https://iamsaurabh.in">
