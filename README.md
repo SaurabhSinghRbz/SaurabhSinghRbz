@@ -102,29 +102,22 @@ Security:
 
 # $ stack --technologies
 
+
 <div align="center">
 
-### Backend
+### Backend • Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,go"/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,go,react,nextjs,tailwind,redux,vite" />
 
-### Frontend
+### Database • Cloud • DevOps • Messaging • Observability
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma,aws,gcp,docker,githubactions,github,linux,postman,vscode,bitbucket,ai" />
 
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
+### **Stripe • OpenTelemetry • ActiveMQ • IronMQ • REST APIs • Microservices • Event-Driven Architecture • CI/CD**
 
 </div>
+
+
 
 ---
 
