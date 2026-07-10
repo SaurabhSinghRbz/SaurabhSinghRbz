@@ -1,155 +1,232 @@
-# Saurabh Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Saurabh Singh
 
-> Senior Software Engineer focused on Payments, Distributed Systems, Platform Engineering and Full-Stack Architecture.
+<div align="center">
 
-I build systems that move money.
+### Senior Software Engineer • Distributed Systems • Payments • Platform Engineering
 
-Currently working on high-scale payment and gift-card infrastructure, designing and operating backend platforms that process millions of events daily.
+Building systems that process transactions, move money, orchestrate events, and power products used at scale.
 
----
+<p>
+  <a href="https://iamsaurabh.in">Portfolio</a> •
+  <a href="https://linkedin.com/in/saurabhsinghrbz">LinkedIn</a> •
+  <a href="mailto:hello@iamsaurabh.in">Email</a> •
+  <a href="https://github.com/SaurabhSinghRbz">GitHub</a>
+</p>
 
-## Engineering Snapshot
+<img src="https://komarev.com/ghpvc/?username=SaurabhSinghRbz&style=for-the-badge" />
 
-- Senior Software Engineer @ Pine Labs
-- 4+ years of production experience
-- Payments & Distributed Systems
-- Full Stack Development
-- Platform Engineering
-- Cloud Infrastructure
-
-### Areas of Expertise
-
-- High Throughput Systems
-- Event Driven Architecture
-- Payment Platforms
-- Queue Based Systems
-- Backend Engineering
-- Full Stack Product Development
-- System Design
-- Cloud Native Applications
+</div>
 
 ---
 
-## Currently Building
+## Engineering Philosophy
+
+I enjoy building software that solves real business problems and continues to operate reliably when traffic, complexity, and scale increase.
+
+My focus is not just writing code.
+
+I design systems.
+
+I build products.
+
+I improve architecture.
+
+I automate operations.
+
+I optimize performance.
+
+I own solutions end-to-end.
+
+---
+
+## Current Focus
 
 ### SmoothPay
 
-Multi-tenant payment and ordering platform.
+A next-generation payment ecosystem designed around merchants, loyalty, ordering, QR payments, payment orchestration, and customer engagement.
 
-Features:
+Key Areas:
 
-- QR Ordering
-- Merchant Dashboard
-- Admin Dashboard
-- Loyalty Engine
-- Payment Links
-- Apple Pay
-- Google Pay
-- Stripe Integration
-- Real-time Order Tracking
-
-Tech:
-
-NestJS • React • PostgreSQL • Redis • Socket.IO • AWS
+* Multi-Tenant Architecture
+* Merchant Management
+* Payment Links
+* QR Payments
+* Loyalty & Cashback Engine
+* Real-Time Event Processing
+* Apple Pay / Google Pay
+* Payment Gateway Integrations
+* Cloud Native Infrastructure
 
 ---
 
-## Production Technologies
+## Production Experience
+
+### Payment Systems
+
+* Payment orchestration
+* Transaction processing
+* Settlement workflows
+* Webhook management
+* Failure recovery flows
+
+### Distributed Systems
+
+* Event-driven architecture
+* Queue-based processing
+* High throughput workloads
+* Asynchronous communication
+* Service decoupling
+
+### Platform Engineering
+
+* API design
+* Microservices
+* Background workers
+* Monitoring
+* CI/CD automation
+
+### Product Engineering
+
+* Full stack architecture
+* Backend systems
+* Frontend applications
+* Cloud infrastructure
+* Production deployments
+
+---
+
+## Tech Arsenal
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,go" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+</p>
 
-### Data & Messaging
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-FF6600?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
 
 ---
 
-## Featured Work
+## Impact Snapshot
 
-### Queue Processing Platform
+* 4+ Years Professional Experience
+* Production-Scale Systems
+* Millions of Events Processed
+* Payment Infrastructure Development
+* End-to-End Product Ownership
+* API First Development
+* Cloud Native Deployments
+* Performance Optimization
 
-- 500+ TPS
-- Millions of events daily
-- Message tracking
-- Retry mechanisms
-- Webhooks
-- RBAC
+---
 
-### Notification Platform
-
-- Email
-- SMS
-- WhatsApp
-- Push Notifications
-- OTP Services
-
-### Gift Card Core Platform
-
-- Order Lifecycle
-- Activation
-- Shipping
-- Wallet
-- PIN Reset
-- Reissue
+## Featured Projects
 
 ### SmoothPay
 
-Complete payment ecosystem built end-to-end.
+Modern payment platform built around merchants, payments, loyalty, and customer engagement.
+
+**Stack**
+
+React • TypeScript • Node.js • PostgreSQL • Redis • Cloud Infrastructure
 
 ---
 
-## Portfolio
+### Personal Portfolio
 
-🌐 https://iamsaurabh.in
+Interactive developer experience featuring terminal navigation, project showcases, achievements, certifications, and engineering journey.
+
+🔗 https://iamsaurabh.in
+
+---
+
+### Open Source & Side Projects
+
+Continuously building tools, experiments, utilities, automation systems, and full-stack products to explore new technologies and architectural patterns.
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSinghRbz&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSinghRbz&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSinghRbz&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
+## Contribution Activity
 
-- Portfolio: https://iamsaurabh.in
-- LinkedIn: https://linkedin.com/in/saurabhsinghrbz
-- GitHub: https://github.com/SaurabhSinghRbz
-- Email: hello@iamsaurabh.in
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSinghRbz&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-> Build infrastructure people never have to think about — because it never fails them.
+## Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaurabhSinghRbz&theme=github_dark"/>
+</p>
+
+---
+
+## Engineering Beyond Code
+
+I enjoy exploring:
+
+* System Design
+* Scalable Architecture
+* Product Strategy
+* Startup Building
+* FinTech
+* Cloud Infrastructure
+* Developer Experience
+* Performance Engineering
+
+---
+
+## Currently Exploring
+
+* Advanced Distributed Systems
+* Event Sourcing
+* Payment Architecture
+* Cloud Cost Optimization
+* AI-Augmented Engineering Workflows
+
+---
+
+## Let's Build Something Meaningful
+
+Whether it's a product, platform, startup, payment system, developer tool, or open-source project, I'm always interested in solving challenging engineering problems.
+
+<div align="center">
+
+### 🌐 https://iamsaurabh.in
+
+### Building systems that scale beyond expectations.
+
+</div>
