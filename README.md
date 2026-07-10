@@ -38,10 +38,7 @@
   <a href="https://leetcode.com/SinghSaurabh1602/">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/leetcode.png?raw=true" width="24px"  />
   </a>
-   <a href="https://hashnode.com/@Saurabh1602">
-    <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/hashnode.png" width="32px"  />
-  </a>
-   <a href="https://singhsaurabh.vercel.app/">
+   <a href="https://iamsaurabh.in/">
     <img align="left" src="https://github.com/SaurabhSinghRbz/SaurabhSinghRbz/blob/master/Images/portfolio.png" width="35px"  />
   </a>
   
@@ -108,7 +105,7 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
+<img src="https://streak-stats.demolab.com?user=SaurabhSinghRbz&theme=chartreuse-dark"  />
 </p>
  
 <p>
