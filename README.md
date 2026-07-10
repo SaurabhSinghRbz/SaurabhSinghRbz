@@ -100,26 +100,6 @@ Security:
 
 ---
 
-# $ stack --technologies
-
-
-<div align="center">
-
-### Backend • Frontend
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,go,react,nextjs,tailwind,redux,vite" />
-
-### Database • Cloud • DevOps • Messaging • Observability
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma,aws,gcp,docker,githubactions,github,linux,postman,vscode,bitbucket,ai" />
-
-### **Stripe • OpenTelemetry • ActiveMQ • IronMQ • REST APIs • Microservices • Event-Driven Architecture • CI/CD**
-
-</div>
-
-
-
----
 
 # $ portfolio --open
 
@@ -135,13 +115,35 @@ Security:
 
 ---
 
+# $ stack --technologies
+
+
+<div align="center">
+
+### Backend • Frontend
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,go,react,nextjs,tailwind,redux,vite" />
+
+### Database • Cloud • DevOps • Messaging • Observability
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma,aws,gcp,docker,githubactions,github,linux,postman,vscode,bitbucket,ai" />
+
+#### **Stripe • OpenTelemetry • ActiveMQ • IronMQ • REST APIs • Microservices • Event-Driven Architecture • CI/CD**
+
+</div>
+
+
+
+---
+
+
 # $ github stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaurabhSinghRbz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=SaurabhSinghRbz&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSinghRbz&layout=compact&hide_border=true&theme=transparent"/>
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/SaurabhSinghRbz?cardType=github"/>
 
 </div>
 
