@@ -1,0 +1,17 @@
+name: GitHub Profile Language Analytics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate Language Stats
+        uses: StefVuck/github-profile-language-analytics@v1.2.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "donut" # Options: leaderboard, bar, pie, donut
