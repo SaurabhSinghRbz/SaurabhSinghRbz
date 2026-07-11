@@ -44,6 +44,7 @@ Specialization:
 
 # $ cat engineering-manifesto.md
 
+```text
 I enjoy building software that survives growth.
 
 My focus is creating systems that remain reliable under scale,
@@ -54,6 +55,7 @@ and useful long after their first deployment.
 I believe good engineering is not about writing more code.
 
 It is about building systems that continue to work when everything around them changes.
+```
 
 ---
 
@@ -171,16 +173,16 @@ Security:
 # $ interests
 
 ```text
-Distributed Systems
-System Design
-Cloud Infrastructure
-Financial Technology
-Platform Engineering
-Developer Experience
-Performance Engineering
-Scalable Architectures
-Open Source
-Product Development
+✓ Distributed Systems
+✓ System Design
+✓ Cloud Infrastructure
+✓ Financial Technology
+✓ Platform Engineering
+✓ Developer Experience
+✓ Performance Engineering
+✓ Scalable Architectures
+✓ Open Source
+✓ Product Development
 ```
 
 ---
