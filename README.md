@@ -171,16 +171,16 @@ Security:
 # $ interests
 
 ```text
-Distributed Systems
-System Design
-Cloud Infrastructure
-Financial Technology
-Platform Engineering
-Developer Experience
-Performance Engineering
-Scalable Architectures
-Open Source
-Product Development
+✓ Distributed Systems
+✓ System Design
+✓ Cloud Infrastructure
+✓ Financial Technology
+✓ Platform Engineering
+✓ Developer Experience
+✓ Performance Engineering
+✓ Scalable Architectures
+✓ Open Source
+✓ Product Development
 ```
 
 ---
